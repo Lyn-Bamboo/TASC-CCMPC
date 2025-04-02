@@ -1,6 +1,0 @@
-waypoint_generator
-/home/linjie/CODE/TASC_v3_multi/devel/.private/waypoint_generator/cmake.lock /home/linjie/CODE/TASC_v3_multi/devel/./cmake.lock
-/home/linjie/CODE/TASC_v3_multi/devel/.private/waypoint_generator/lib/pkgconfig/waypoint_generator.pc /home/linjie/CODE/TASC_v3_multi/devel/lib/pkgconfig/waypoint_generator.pc
-/home/linjie/CODE/TASC_v3_multi/devel/.private/waypoint_generator/lib/waypoint_generator/waypoint_generator /home/linjie/CODE/TASC_v3_multi/devel/lib/waypoint_generator/waypoint_generator
-/home/linjie/CODE/TASC_v3_multi/devel/.private/waypoint_generator/share/waypoint_generator/cmake/waypoint_generatorConfig.cmake /home/linjie/CODE/TASC_v3_multi/devel/share/waypoint_generator/cmake/waypoint_generatorConfig.cmake
-/home/linjie/CODE/TASC_v3_multi/devel/.private/waypoint_generator/share/waypoint_generator/cmake/waypoint_generatorConfig-version.cmake /home/linjie/CODE/TASC_v3_multi/devel/share/waypoint_generator/cmake/waypoint_generatorConfig-version.cmake

@@ -1,6 +1,0 @@
-mpc
-/home/linjie/CODE/TASC_v2_sc/devel/.private/mpc/cmake.lock /home/linjie/CODE/TASC_v2_sc/devel/./cmake.lock
-/home/linjie/CODE/TASC_v2_sc/devel/.private/mpc/lib/pkgconfig/mpc.pc /home/linjie/CODE/TASC_v2_sc/devel/lib/pkgconfig/mpc.pc
-/home/linjie/CODE/TASC_v2_sc/devel/.private/mpc/lib/mpc/mpc /home/linjie/CODE/TASC_v2_sc/devel/lib/mpc/mpc
-/home/linjie/CODE/TASC_v2_sc/devel/.private/mpc/share/mpc/cmake/mpcConfig.cmake /home/linjie/CODE/TASC_v2_sc/devel/share/mpc/cmake/mpcConfig.cmake
-/home/linjie/CODE/TASC_v2_sc/devel/.private/mpc/share/mpc/cmake/mpcConfig-version.cmake /home/linjie/CODE/TASC_v2_sc/devel/share/mpc/cmake/mpcConfig-version.cmake
